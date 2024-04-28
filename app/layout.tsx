@@ -6,12 +6,12 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "pierluigirizzu.it",
+    default: "Pierluigi Rizzu - Software Developer",
     template: "%s | pierluigirizzu.it",
   },
   description: "Web & Mobile Developer",
   openGraph: {
-    title: "pierluigirizzu.it",
+    title: "Pierluigi Rizzu - Software Developer",
     description: "Web & Mobile Developer | Making your business digital",
     url: "https://pierluigirizzu.it",
     siteName: "pierluigirizzu.it",
