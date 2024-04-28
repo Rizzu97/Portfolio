@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: "Pierluigi Rizzu - Software Developer",
     description: "Web & Mobile Developer | Making your business digital",
     url: "https://pierluigirizzu.it",
-    siteName: "pierluigirizzu.it",
+    siteName: "Pierluigi Rizzu - Software Developer",
     images: [
       {
         url: "",
