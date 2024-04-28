@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "Web & Mobile Developer",
   openGraph: {
     title: "pierluigirizzu.it",
-    description: "Web & Mobile Developer | Making your buisness digital",
+    description: "Web & Mobile Developer | Making your business digital",
     url: "https://pierluigirizzu.it",
     siteName: "pierluigirizzu.it",
     images: [
