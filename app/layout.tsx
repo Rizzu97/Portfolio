@@ -18,8 +18,8 @@ export const metadata: Metadata = {
     images: [
       {
         url: "https://pierluigirizzu.it/favicon.png",
-        width: 1080,
-        height: 1080,
+        width: 512,
+        height: 512,
       },
     ],
     locale: "it-IT",
