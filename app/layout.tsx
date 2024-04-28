@@ -9,10 +9,10 @@ export const metadata: Metadata = {
     default: "pierluigirizzu.it",
     template: "%s | pierluigirizzu.it",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Web & Mobile Developer",
   openGraph: {
     title: "pierluigirizzu.it",
-    description: "Co-founder of unkey.dev and founder of planetfall.io",
+    description: "Web & Mobile Developer | Making your buisness digital",
     url: "https://pierluigirizzu.it",
     siteName: "pierluigirizzu.it",
     images: [
@@ -35,10 +35,6 @@ export const metadata: Metadata = {
       "max-image-preview": "large",
       "max-snippet": -1,
     },
-  },
-  twitter: {
-    title: "Chronark",
-    card: "summary_large_image",
   },
   icons: {
     shortcut: "/favicon.png",
