@@ -17,8 +17,8 @@ export const metadata: Metadata = {
     siteName: "Pierluigi Rizzu - Software Developer",
     images: [
       {
-        url: "https://pierluigirizzu.it/og.png",
-        width: 1920,
+        url: "https://pierluigirizzu.it/favicon.png",
+        width: 1080,
         height: 1080,
       },
     ],
