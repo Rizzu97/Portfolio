@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     siteName: "Pierluigi Rizzu - Software Developer",
     images: [
       {
-        url: "public/og.png",
+        url: "https://pierluigirizzu.it/og.png",
         width: 1920,
         height: 1080,
       },
