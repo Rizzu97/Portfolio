@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     siteName: "pierluigirizzu.it",
     images: [
       {
-        url: "https://pierluigirizzu.it/og.png",
+        url: "",
         width: 1920,
         height: 1080,
       },
