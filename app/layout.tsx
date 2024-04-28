@@ -17,12 +17,12 @@ export const metadata: Metadata = {
     siteName: "Pierluigi Rizzu - Software Developer",
     images: [
       {
-        url: "",
+        url: "public/og.png",
         width: 1920,
         height: 1080,
       },
     ],
-    locale: "en-US",
+    locale: "it-IT",
     type: "website",
   },
   robots: {
