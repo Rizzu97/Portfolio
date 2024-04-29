@@ -9,12 +9,15 @@ export const metadata: Metadata = {
     default: "Pierluigi Rizzu - Software Developer",
     template: "%s | pierluigirizzu.it",
   },
-  description: "Web & Mobile Developer",
+  description:
+    "Sviluppatore freelance specializzato nella creazione di siti web e applicazioni mobili, progetto soluzioni digitali su misura per startup e imprese che desiderano innovare e crescere. Scopri come posso aiutarti a sfruttare le tecnologie più avanzate per raggiungere e superare i tuoi obiettivi di business.",
   openGraph: {
     title: "Pierluigi Rizzu - Software Developer",
-    description: "Web & Mobile Developer | Making your business digital",
+    description:
+      "Sviluppatore freelance specializzato nella creazione di siti web e applicazioni mobili, progetto soluzioni digitali su misura per startup e imprese che desiderano innovare e crescere. Scopri come posso aiutarti a sfruttare le tecnologie più avanzate per raggiungere e superare i tuoi obiettivi di business.",
     url: "https://pierluigirizzu.it",
-    siteName: "Pierluigi Rizzu - Software Developer",
+    siteName:
+      "Pierluigi Rizzu - Software Developer | Trasformo le tue idee in soluzioni digitali innovative.",
     images: [
       {
         url: "https://pierluigirizzu.it/favicon.png",
