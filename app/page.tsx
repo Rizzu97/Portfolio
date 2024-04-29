@@ -28,7 +28,7 @@ export default function Home() {
         className="absolute inset-0 -z-10 animate-fade-in"
         quantity={100}
       />
-      <h1 className="z-10 text-2xl text-transparent duration-1000 bg-white cursor-default h-1/5 animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
+      <h1 className="z-10 text-2xl text-transparent duration-1000 bg-white cursor-default  animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
         Pierluigi Rizzu
       </h1>
 
